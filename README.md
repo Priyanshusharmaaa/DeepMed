@@ -6,9 +6,7 @@ DeepMed AI is a **state-of-the-art medical imaging platform** that generates con
 
 You can access the live demo here: [DeepMed AI Streamlit App](https://deepmed-eggv3dccn6kgv7qciemcrg.streamlit.app/)
 
-Example Output : 
-<img width="665" height="514" alt="Screenshot 2025-10-07 171134" src="https://github.com/user-attachments/assets/d67fa062-4a16-49f1-8590-8d1ad73e5586" />
-
+<img width="441" height="159" alt="Screenshot 2025-10-07 171432" src="https://github.com/user-attachments/assets/5649a72d-cb5c-4108-9e58-6939fc90c743" />
 
 ---
 
