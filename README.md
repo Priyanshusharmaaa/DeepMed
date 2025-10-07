@@ -42,7 +42,7 @@ The project is divided into several modular components:
 
 ## 📁 Repository Structure
 
-
+```plaintext
 DeepMed/
 ├── app.py               # Streamlit app frontend
 ├── main.py              # Main script integrating all modules
