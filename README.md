@@ -4,7 +4,7 @@
 
 DeepMed AI is a **state-of-the-art medical imaging platform** that generates context-aware medical reports from chest X-ray images. By combining **advanced vision-language models** like BioViLT and BioGPT, DeepMed AI aims to assist healthcare professionals in automating the interpretation of radiological images, reducing manual effort, and improving report consistency.
 
-You can access the live demo here: [DeepMed AI Streamlit App](https://xyz.link)
+You can access the live demo here: [DeepMed AI Streamlit App](https://deepmed-eggv3dccn6kgv7qciemcrg.streamlit.app/)
 
 ---
 
